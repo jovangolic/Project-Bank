@@ -1,11 +1,16 @@
 # Project-Bank
 ## Overview
 
-This is backend part of Bank.
+This is only a backend part of Bank.
 
 ## Features
 
 - User authentication and authorization (registration, login, logout)
+- Creating Account
+- Creating a Pin
+- Cash deposit
+- Cash withdrawal
+- Fund transfer
 
  ### Backend
 
@@ -14,6 +19,16 @@ This is backend part of Bank.
 - Spring Security
 - JPA (Hibernate)
 - MySQL
+- MapStruct
+- Lombok
+- Libphonenumber
+- github.javafaker
+- Spring boot starer mail
+- icegreen
+- github.ben-manes.caffeine
+- io.jsonwebtoken
+- springdoc
+- com.fasterxml.jackson.core
 
 ## Getting Started
 
