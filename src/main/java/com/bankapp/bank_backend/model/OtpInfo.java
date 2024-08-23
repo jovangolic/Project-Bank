@@ -10,6 +10,7 @@ import jakarta.persistence.Id;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+//ovo je One-Time Password klasa
 @Entity
 @NoArgsConstructor
 @Data
